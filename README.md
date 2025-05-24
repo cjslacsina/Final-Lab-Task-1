@@ -64,4 +64,4 @@ This portfolio focuses on learning MySQL through a sample company database. It i
 ![Image](https://github.com/user-attachments/assets/c3bdd751-8772-4929-85f4-6f5ab1b45cd4)
 
 ## ER Diagram:
-![Image](https://github.com/cjslacsina/EDM-V3/blob/7079baaba85f2bc663fdb1dde9d11bb12a1dcc16/image2/LACSINA_EER_DIAGRAM.PNG)
+![Image](https://github.com/user-attachments/assets/1123d607-07b6-4ad3-941b-6358f268807b)
