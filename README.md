@@ -33,35 +33,35 @@ This portfolio focuses on learning MySQL through a sample company database. It i
 ## Query Statements
 
 # 1. Employees Table:
-![Image](https://github.com/user-attachments/assets/ae5115de-c211-4fe0-ae84-7a0695a2d2ff)
+![Image](https://github.com/user-attachments/assets/f0eb396a-47e3-4628-a980-6eeb9d4e0856)
 
 # 2. Department Table:
-![Image](https://github.com/user-attachments/assets/83aad58a-6b77-4d74-b90a-a4a1f414b444)
+![Image](https://github.com/user-attachments/assets/a29336be-7c94-4bf6-83a5-9d7bc50fc353)
 
 # 3. Employee Departments:
-![Image](https://github.com/user-attachments/assets/338e8a42-10ef-45f5-8b35-81f62a26b5af)
+![Image](https://github.com/user-attachments/assets/981973d8-d32a-42b5-9e3f-7d7764d1b4be)
 
 # 4. Employee Projects:
-![Image](https://github.com/user-attachments/assets/7013c794-d78b-45d0-b4a9-b2cff96dfd84)
+![Image](https://github.com/user-attachments/assets/357de5c9-ae74-41b6-8444-bbaface9aebe)
 
 # 5. Manager Table:
-![Image](https://github.com/user-attachments/assets/85faf40b-4982-4be6-9e5e-05280c8fc1b5)
+![Image](https://github.com/user-attachments/assets/3485ab65-03fe-4365-be1d-bc5e65e54d66)
 
 ## Table Structure
 # 1. Employees Table:
-![Image](https://github.com/user-attachments/assets/e7d53d0f-a6ed-4b0f-8140-2580f348bb3a)
+![Image](https://github.com/user-attachments/assets/cc705a4d-db69-44cd-a7be-a0f4a50ec258)
 
 # 2. Department Table:
-![Image](https://github.com/user-attachments/assets/36bf2ed4-be47-45af-99e5-bf40241e8434)
+![Image](https://github.com/user-attachments/assets/eed4ecdd-ad3f-4d8b-816c-36a80b0cac6f)
 
 # 3. Employee Departments:
-![Image](https://github.com/user-attachments/assets/06770a54-7f15-4d40-87f9-c705714f59c2)
+![Image](https://github.com/user-attachments/assets/be6a4c89-7447-4bb7-a484-55b611c7ea35)
 
 # 4. Employee Projects:
-![Image](https://github.com/user-attachments/assets/8205fe7a-a409-48b5-92fd-b61afac9d1c8)
+![Image](https://github.com/user-attachments/assets/a5a5ef85-403f-40c0-8037-fe3f6a38bfd6)
 
 # 5. Manager Table:
-![Image](https://github.com/user-attachments/assets/c3bdd751-8772-4929-85f4-6f5ab1b45cd4)
+![Image](https://github.com/user-attachments/assets/733883a1-da35-4bc2-80fd-d0fdc2be42cd)
 
 ## ER Diagram:
-![Image](https://github.com/user-attachments/assets/1123d607-07b6-4ad3-941b-6358f268807b)
+![Image](https://github.com/user-attachments/assets/5f2c6cc7-5c93-4015-94fc-3e57c50707de)
